@@ -18,8 +18,7 @@ h1{
   left: 60%;
   top: 28%;
   font-size: 69px;
-  font-family: "ROG Fonts"
-  color: #74ba72;
+  
 
 
   transform : translateX(-50%) translateY(-50%)
@@ -36,6 +35,11 @@ h2{
   color: #74ba72;
   font-size: 74px;
 }
+h1{
+   font-family: "ROG Fonts"
+  color: #74ba72;
+}
+  
 
 p{
   position: absolute;
