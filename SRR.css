@@ -15,9 +15,9 @@ body{
 }
 h1{
   position: absolute;
-  left: 50%;
-  top: 25%;
-  font-size: 39px;
+  left: 60%;
+  top: 28%;
+  font-size: 69px;
 
 
   transform : translateX(-50%) translateY(-50%)
@@ -35,8 +35,7 @@ h2{
    font-size: 74px;
 }
 h1{
-  font-family: "ROG Fonts";
-  font-size: 69px;
+  font-family: "ROG Fonts"
   color: #74ba72;
 }
 p{
